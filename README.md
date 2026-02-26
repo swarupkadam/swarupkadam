@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1 align="center">
+  Hi 👋, I'm Swarup Kadam
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Cloud+%26+Full+Stack+Developer;Azure+Automation+Builder;System+Design+Enthusiast;Always+Learning+New+Things+🚀" />
+</p>
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/swarupkadam/swarupkadam/blob/output/github-contribution-grid-snake-dark.svg)
