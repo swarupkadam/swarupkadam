@@ -3,13 +3,14 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=800&lines=Hi+I'm+Swarup+Kadam+👋;☁️+Cloud+Enthusiast;💻+Full+Stack+Developer;🚀+Building+scalable+systems;⚡+Automating+everything+possible" />
 </p>
+
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/swarupkadam/swarupkadam/blob/output/github-contribution-grid-snake-dark.svg)
 
-
+## 💻 Tech Stack:
 <p align="center">
-  ## 💻 Tech Stack:
+  
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
