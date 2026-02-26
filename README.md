@@ -1,9 +1,9 @@
-<h1 align="center">
-  Hi 👋, I'm Swarup Kadam
-</h1>
+<h1 align="center">Hi 👋, I'm Swarup Kadam</h1>
+
+<h3 align="center">Building Cloud Systems & Smart Automation Tools ☁️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Cloud+%26+Full+Stack+Developer;Azure+Automation+Builder;System+Design+Enthusiast;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Cloud+Developer;Azure+Automation+Engineer;Full+Stack+Builder;AI+Driven+Projects;Always+Building+Something+Cool+🚀" />
 </p>
 ## 🐍 Contribution Snake
 
