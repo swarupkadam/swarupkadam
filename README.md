@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Swarup Kadam</h1>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=800&lines=Hi+I'm+Swarup+Kadam+👋;☁️+Cloud+Enthusiast;💻+Full+Stack+Developer;🚀+Building+scalable+systems;⚡+Automating+everything+possible" />
