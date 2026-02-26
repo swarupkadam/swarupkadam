@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/swarupkadam/swarupkadam/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/swarupkadam/swarupkadam/blob/output/github-contribution-grid-snake-dark.svg)
 <!--
 **swarupkadam/swarupkadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
