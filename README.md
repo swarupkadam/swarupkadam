@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=800&lines=Hi+I'm+Swarup+👋;☁️+Cloud+Enthusiast;💻+Full+Stack+Developer;🚀+Building+scalable+systems;⚡+Automating+everything+possible" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=7B017C&center=true&vCenter=true&width=800&lines=Hi+I'm+Swarup+👋;☁️+Cloud+Enthusiast;💻+Full+Stack+Developer;🚀+Building+scalable+systems;⚡+Automating+everything+possible" />
 </p>
 
 ## 🐍 Contribution Snake
