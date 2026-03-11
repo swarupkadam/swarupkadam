@@ -32,3 +32,17 @@
 
   
 </p>
+
+### Interests
+<p align="center">  
+  
+![Gaming](https://img.shields.io/badge/Gaming-5c6bc0?style=for-the-badge&logo=steam&logoColor=white)
+![Auto](https://img.shields.io/badge/Auto-546e7a?style=for-the-badge&logo=bmw&logoColor=white)
+![Tech](https://img.shields.io/badge/Tech-26a69a?style=for-the-badge&logo=qualcomm&logoColor=white)
+![Drawing](https://img.shields.io/badge/Drawing-f4a261?style=for-the-badge&logo=sketch&logoColor=white)
+![Photography](https://img.shields.io/badge/Photography-e76f51?style=for-the-badge&logo=instagram&logoColor=white)
+![Traveling](https://img.shields.io/badge/Traveling-4c6ef5?style=for-the-badge&logo=airbnb&logoColor=white)
+![Reading](https://img.shields.io/badge/Reading-8d6e63?style=for-the-badge&logo=bookstack&logoColor=white)
+![Music](https://img.shields.io/badge/Music-2e7d32?style=for-the-badge&logo=spotify&logoColor=white)
+
+</p>
